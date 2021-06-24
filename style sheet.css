@@ -1,0 +1,32 @@
+
+
+
+
+body
+{
+   background-image: url('robot background.jpg');
+   background-size: cover;
+  font-size: 21px;
+}
+
+div 
+{
+ height: 50%; 
+ font-family: arial ;
+ color: skyblue;
+ direction: rtl;
+ text-align: center;
+ text-indent: 30%;
+ margin: 120px 40px 30px 0px ;
+ font-weight: bold;
+}
+button{
+	height:40%;
+	width: 10%;
+	background-color: gray;
+	border:black ;
+	font-family: arial;
+	font-size : 25px;
+	font-weight: bold;
+}
+
